@@ -1,0 +1,8 @@
+# Ignore .venv
+.venv
+
+# Ignore all the .xlsx and .csv files but not the ones in the data folder
+generated_data/*.xlsx
+generated_data/regions/*.xlsx
+generated_data/*.csv
+
