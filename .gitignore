@@ -6,3 +6,6 @@ generated_data/*.xlsx
 generated_data/regions/*.xlsx
 generated_data/*.csv
 
+# Ignore .DS_Store files
+.ds_store
+
